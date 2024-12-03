@@ -1,0 +1,8 @@
+.nav-item :hover {
+  background-color: rgb(207, 207, 221);
+  cursor: pointer;
+}
+
+nav {
+  position: static;
+}
